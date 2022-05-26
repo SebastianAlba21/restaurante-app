@@ -1,12 +1,21 @@
-# Getting Started with Create React App
+# Proyecto Final Curso de Desarrollo WEB
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Resumen
+    Este proyecto es una implementación de react basado en la operatividad de un restaurante de comidas rapidas, contiene las librerias de Redux ademas de Firebase, hooks, UseState, UseEffect.
+    La idea principal de este proyecto es usar metricas de usabilidad inicialmente basadas en las politicas de Jacob Nielsen 
 
-## Available Scripts
+## Nombre
+RestauranteSmart
+Desarrollador: Juan Sebastian Alba Morales
 
-In the project directory, you can run:
+### COMO EJECUTAR x
 
-### `npm start`
+
+### Inicialmente descargar los modulos necesarios `npm i`x
+
+### `Ubicarse en la carpeta raiz del proyecto`x
+
+### `npm start`x
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
